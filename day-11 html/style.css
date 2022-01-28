@@ -1,0 +1,164 @@
+ 
+#firstul{
+
+  list-style-type:lower-alpha;
+}
+
+#secondul{
+
+  
+  list-style-type:lower-alpha;
+}
+ #thirdul{
+
+  
+  list-style-type:lower-alpha;
+ }
+
+
+
+.varner{
+
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+
+border: 3px solid; 
+height: fit-content;
+width: fit-content;
+padding: 20px;
+
+}
+
+.heading{
+  height: fit-content;
+  width: fit-content;
+  text-transform: capitalize;
+  color: white;
+  background-color: #f00;
+}
+h2 {
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 20px;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+ 
+#first {
+  border: none;
+  border-bottom: 3px solid black;
+  display: inline-block;
+}
+#last {
+  border: none;
+  border-bottom: 3px solid black;
+  display: inline-block;
+}
+input#first, input#last, input#add, input#city, input#state, input#zip {
+  font-family: 'Damion', cursive;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+  outline: none;
+}
+#lab {
+  display: block;
+}
+
+#last-lab {
+  margin-left: 228px;
+}
+
+.field {
+  display: inline;
+  border: 3px solid black;
+  background: white;
+}
+
+ 
+#city {
+  display: inline;
+  border: none;
+  border-bottom: 3px solid black;
+}
+#zip {
+  display: inline;
+  border: none;
+  border-bottom: 3px solid black;
+}
+#zip-lab {
+  margin-left: 270px;
+}
+#state {
+  border: none;
+  border-bottom: 3px solid black;
+  display: inline;
+}
+
+#sub {
+  display: inline;
+}
+
+#state-lab {
+  margin-left: 270px;
+}
+label {
+  cursor: default;
+}
+
+#add {
+  display: block;
+  border: none;
+  border-bottom: 3px solid black;
+  width: 495px;
+}
+.second{
+  margin:30px;
+  margin-top: 10px;
+}
+
+.vicky{
+  border: 3px solid;
+  border-radius: 10px;
+  height: fit-content;
+  width: fit-content;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(158, 158, 185);
+  font: black;
+}
+.image{
+  border: 3px solid;
+  height: fit-content;
+  width: fit-content;
+}
+#varner{display: block;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 20px;
+  
+  text-transform: capitalize;
+  color: white;
+  background-color: #f00
+}
+#line{
+  text-decoration:overline;
+}
+
+.empty{
+  border: 2px solid;
+  height: fit-content;
+  width: fit-content;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(31, 185, 139);
+}
+
+.newform {
+  border: 3px solid;
+  height: fit-content;
+  width: fit-content;
+  padding: 20px;
+  background-color: rgb(231, 167, 29);
+}
